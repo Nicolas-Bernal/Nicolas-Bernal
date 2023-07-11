@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250px">
-    <h1 align="center"> hi 🖐️, I'm a junior backend programmer </h1>
+    <h1 align="center"> hi 🖐️, I'm a junior programmer </h1>
     <h3 align="center"> 
     My name is Nicolás and I am from Colombia, right now I am studying mathematics and statistics.
      I am looking to dedicate myself to programming to have a greater field of work 🥀
