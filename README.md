@@ -12,8 +12,8 @@
 
     ◾ I am a student at the University of Tolima 📚
 
-    ◾ you can ask me about python, PhP, Sql 🗃️
+    ◾ you can ask me about python, PhP, match, jupiter 🗃️
 
-    ◾ I am currently looking to expand my knowledge of python, ruby, perl 📈
+    ◾ solid knowledge of abstraction and analysis on multiple areas of calculation and mathematical analysis, I apply consistent numerical methods when carrying out my advanced tasks     for better performance and cleanliness 📈
 </h4>
 </div>
